@@ -1,2 +1,2 @@
 # BasicPlayer
-A simple music player in C#
+A simple music player written in C#
